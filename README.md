@@ -1,6 +1,6 @@
 # VolVeR WebPanel
 
-A web panel currently used to optionally monitor and manage the VolVeR Miner.
+A web panel currently used to optionally monitor and manage the [SilentMiner-VolVeR](https://github.com/VolVeRFM/SilentMiner-VolVeR).
 
 Pretty easy to use web panel. With PHP support
 
